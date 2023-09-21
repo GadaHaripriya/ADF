@@ -3,7 +3,13 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"factoryName": {
-			"value": "Triple-A-test"
+			"value": "Triple-A-Dev"
+		},
+		"ls_source_connectionString": {
+			"value": ""
+		},
+		"ls_sql_connectionString": {
+			"value": ""
 		}
 	}
 }

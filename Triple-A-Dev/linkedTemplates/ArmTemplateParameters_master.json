@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "Triple-A-Dev"
 		},
+		"ls_source_connectionString": {
+			"value": ""
+		},
+		"ls_sql_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
